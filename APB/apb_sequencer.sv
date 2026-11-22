@@ -1,0 +1,1 @@
+    typedef uvm_sequencer #(apb_item) apb_sequencer;

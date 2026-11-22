@@ -1,0 +1,8 @@
+*.log
+*.shm/
+*.vcd
+*.history
+*.key
+xcelium.d/
+INCA_libs/
+.simvision/
